@@ -269,4 +269,89 @@ body {
   margin-top: 50px;
 }
 
+/* ------------------------------------------------------------------------------------------------------------------- */
+/* responsive */
+/* ------------------------------------------------------------------------------------------------------------------- */
+@media (min-width: 700px) {
+  .site-content .wrapper .container_link .link {
+    width: 70%;
+  }
+}
+@media (min-width: 800px) {
+  .circle_color_bg .color_one {
+    top: calc(100% - 25rem);
+    left: calc(70% - 55rem);
+  }
+  .circle_color_bg .color_two {
+    top: calc(80% - 19rem);
+    left: calc(65% - 60rem);
+  }
+}
+@media (min-width: 1000px) {
+  .circle_color_bg .color_one {
+    top: calc(100% - 25rem);
+    left: calc(70% - 65rem);
+  }
+  .circle_color_bg .color_two {
+    top: calc(80% - 19rem);
+    left: calc(65% - 70rem);
+  }
+  .site-content .wrapper .header_name h1 {
+    font-size: 35px;
+  }
+  .site-content .wrapper .header_name .slogan .text_slogan {
+    font-size: 18px;
+  }
+  .site-content .wrapper .container_link {
+    margin-top: 70px;
+  }
+  .site-content .wrapper .container_link p {
+    font-size: 16px;
+    font-family: ofelia-text, sans-serif;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: #E16753;
+    text-transform: uppercase;
+  }
+  .site-content .wrapper .container_link .link .item_link {
+    font-size: 20px;
+  }
+  .site-content .wrapper .insta {
+    margin-top: 70px;
+  }
+}
+@media (min-width: 1300px) {
+  .circle_color_bg .color_one {
+    top: calc(100% - 25rem);
+    left: calc(70% - 75rem);
+  }
+  .circle_color_bg .color_two {
+    top: calc(80% - 19rem);
+    left: calc(65% - 80rem);
+  }
+  .site-content .wrapper .container_link .link {
+    width: 60%;
+  }
+}
+@media (min-width: 1600px) {
+  .circle_color_bg .color_one {
+    top: calc(100% - 25rem);
+    left: calc(70% - 85rem);
+  }
+  .circle_color_bg .color_two {
+    top: calc(80% - 19rem);
+    left: calc(65% - 90rem);
+  }
+}
+@media (min-width: 1800px) {
+  .circle_color_bg .color_one {
+    top: calc(100% - 25rem);
+    left: calc(70% - 95rem);
+  }
+  .circle_color_bg .color_two {
+    top: calc(80% - 19rem);
+    left: calc(65% - 100rem);
+  }
+}
+
 /*# sourceMappingURL=output.css.map */
