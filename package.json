@@ -1,0 +1,19 @@
+{
+  "name": "carte_de_visite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "carte_de_visite": "sass --watch ./assets/scss/input.scss:./assets/css/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouabeRaphael/Carte_De_visite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouabeRaphael/Carte_De_visite/issues"
+  },
+  "homepage": "https://github.com/SouabeRaphael/Carte_De_visite#readme"
+}
